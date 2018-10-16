@@ -1,0 +1,2 @@
+# pyladies-receptar
+seznam receptu
